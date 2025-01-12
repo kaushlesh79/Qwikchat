@@ -82,6 +82,7 @@ cd Qwikchat
 
 📂 Folder Structure:
 ----------------------------------
+```bash
 /client
 |-- /src
 |   |-- /components
@@ -105,6 +106,7 @@ cd Qwikchat
 |-- /models
 |   |-- Chat.js
 ----------------------------------
+```
 
 
 🚀 Usage:
