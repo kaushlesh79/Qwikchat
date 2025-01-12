@@ -13,9 +13,12 @@ A real-time chat web application built using **Node.js**, **Express.js**, **Reac
 
 ---
 
+
+
 ## Video Showcase
 
-Watch the video demonstration of the web app here: [Qwikchat Web App Demo](https://www.youtube.com/watch?v=V5gZ_GRGl5A)
+[![Qwikchat Web App Demo](https://img.youtube.com/vi/V5gZ_GRGl5A/0.jpg)](https://www.youtube.com/watch?v=V5gZ_GRGl5A)
+
 
 
 ## **Tech Stack**
