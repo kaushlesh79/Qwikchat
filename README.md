@@ -82,19 +82,30 @@ cd Qwikchat
 
 📂 Folder Structure:
 ----------------------------------
-Backend (/backend):
-|-- server.js         : Main server file for WebSocket and MongoDB.
-|-- models/
-   |-- Message.js     : Mongoose schema for chat messages.
-|-- routes/           : API endpoints (if any).
-|-- .env              : Environment variables (e.g., MongoDB URI).
+/client
+|-- /src
+|   |-- /components
+|   |   |-- ChatContainer.js
+|   |   |-- ChatList.js
+|   |   |-- InputText.js
+|   |   |-- UserLogin.js
+|   |-- /assets
+|   |-- App.js
+|   |-- App.css
+|   |-- Main.js
+|   |-- Main.css
+|   |-- Index.js
+|   |-- Index.css
+|-- /public
+|-- index.js
 
-Frontend (/frontend):
-|-- src/
-   |-- components/    : Reusable React components.
-   |-- App.js         : React app entry point.
-|-- public/           : Static assets.
+/server
+|-- App.js
+|-- Db.js
+|-- /models
+|   |-- Chat.js
 ----------------------------------
+
 
 🚀 Usage:
 ----------------------------------
